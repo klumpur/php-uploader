@@ -1,0 +1,100 @@
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: dancing.jpg
+File is valid, and was successfully uploaded.  (fileFolder/dancing.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: bowling.mov
+File is valid, and was successfully uploaded.  (fileFolder/bowling.mov)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: gofuckyourself.gif
+File is valid, and was successfully uploaded.  (fileFolder/gofuckyourself.gif)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: him.png
+File is valid, and was successfully uploaded.  (fileFolder/him.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: kambing.mp4
+File is valid, and was successfully uploaded.  (fileFolder/kambing.mp4)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: keje.png
+File is valid, and was successfully uploaded.  (fileFolder/keje.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: katak.png
+File is valid, and was successfully uploaded.  (fileFolder/katak.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: media.gif
+File is valid, and was successfully uploaded.  (fileFolder/media.gif)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: nv7pcd9uewwy.jpg
+File is valid, and was successfully uploaded.  (fileFolder/nv7pcd9uewwy.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: hantu.mp4
+Possible file upload attack (fileFolder/hantu.mp4)!
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: rules.php
+php<>rules.php
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: ning.png
+File is valid, and was successfully uploaded.  (fileFolder/ning.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: S.gif
+File is valid, and was successfully uploaded.  (fileFolder/S.gif)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: story2_entrance.jpg
+File is valid, and was successfully uploaded.  (fileFolder/story2_entrance.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: whoops.jpg
+File is valid, and was successfully uploaded.  (fileFolder/whoops.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: toon.png
+File is valid, and was successfully uploaded.  (fileFolder/toon.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: saffiq.png
+File is valid, and was successfully uploaded.  (fileFolder/saffiq.png)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: workhard.jpg
+File is valid, and was successfully uploaded.  (fileFolder/workhard.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:07 +0200
+
+File: tellerium.jpg
+File is valid, and was successfully uploaded.  (fileFolder/tellerium.jpg)
+---------------------Uploading 1 Files --------------------- 
+Wed, 10 Oct 2018 16:40:25 +0200
+
+File: bowling.mov
+File is valid, and was successfully uploaded.  (fileFolder/bowling.mov)
