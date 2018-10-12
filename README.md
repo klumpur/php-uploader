@@ -1,2 +1,5 @@
 # php-uploader
-Download and Upload file
+-Download and Upload file
+-Drag and Drop
+
+
